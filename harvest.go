@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/obsidiandynamics/goharvest/metric"
+	"github.com/hellomayan/goharvest/metric"
 	"github.com/obsidiandynamics/goneli"
 	"github.com/obsidiandynamics/libstdgo/concurrent"
 	"github.com/obsidiandynamics/libstdgo/diags"

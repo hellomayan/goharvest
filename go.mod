@@ -1,4 +1,4 @@
-module github.com/obsidiandynamics/goharvest
+module github.com/hellomayan/goharvest
 
 go 1.14
 
@@ -9,6 +9,7 @@ require (
 	github.com/google/go-cmp v0.4.0
 	github.com/google/uuid v1.1.1
 	github.com/lib/pq v1.5.1
+	github.com/obsidiandynamics/goharvest v0.3.1 // indirect
 	github.com/obsidiandynamics/goneli v0.4.3
 	github.com/obsidiandynamics/libstdgo v0.4.1
 	github.com/sirupsen/logrus v1.5.0

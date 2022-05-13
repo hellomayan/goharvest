@@ -46,6 +46,8 @@ github.com/mattn/go-isatty v0.0.12 h1:wuysRhFDzyxgEmMf5xjvJ2M9dZoWAXNNr5LSBS7uHX
 github.com/mattn/go-isatty v0.0.12/go.mod h1:cbi8OIDigv2wuxKPP5vlRcQ1OAZbq2CE4Kysco4FUpU=
 github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e h1:fD57ERR4JtEqsWbfPhv4DMiApHyliiK5xCTNVSPiaAs=
 github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e/go.mod h1:zD1mROLANZcx1PVRCS0qkT7pwLkGfwJo4zjcN/Tysno=
+github.com/obsidiandynamics/goharvest v0.3.1 h1:1LO9m4d69l+y9u+deveS0QouYt1jY6m0qW3+xP947z4=
+github.com/obsidiandynamics/goharvest v0.3.1/go.mod h1:FnsDKtaJK9pFx8GzCRXS11rUXEAw/yZwq9W+FrcgqzA=
 github.com/obsidiandynamics/goneli v0.4.3 h1:lf3x/qSgEX9S6+Ak5GPcc3TBUQBhPJeiWvGrCykZcbM=
 github.com/obsidiandynamics/goneli v0.4.3/go.mod h1:1i3mTL/PaaDKu6f+hlndeRUCbV8uiDxu+203vBpn6oE=
 github.com/obsidiandynamics/libstdgo v0.4.1 h1:ZUnz+72xQSMgAjEqxp7i7NOBZlu6AcAE6ppmvVKxK3M=

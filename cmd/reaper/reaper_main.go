@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/obsidiandynamics/goharvest"
+	"github.com/hellomayan/goharvest"
 	"github.com/obsidiandynamics/libstdgo/scribe"
 	"gopkg.in/yaml.v2"
 

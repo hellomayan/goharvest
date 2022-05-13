@@ -5,8 +5,8 @@ import (
 	"database/sql"
 	"fmt"
 
+	"github.com/hellomayan/goharvest"
 	"github.com/lib/pq"
-	"github.com/obsidiandynamics/goharvest"
 )
 
 // Stasher writes records into the outbox table.

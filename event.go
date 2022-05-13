@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/google/uuid"
-	"github.com/obsidiandynamics/goharvest/metric"
+	"github.com/hellomayan/goharvest/metric"
 )
 
 // EventHandler is a callback function for handling GoHarvest events.

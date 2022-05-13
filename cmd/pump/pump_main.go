@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/obsidiandynamics/goharvest"
-	"github.com/obsidiandynamics/goharvest/metric"
-	"github.com/obsidiandynamics/goharvest/stasher"
+	"github.com/hellomayan/goharvest"
+	"github.com/hellomayan/goharvest/metric"
+	"github.com/hellomayan/goharvest/stasher"
 )
 
 const recordsPerTxn = 20
